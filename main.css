@@ -65,16 +65,16 @@ h1 {
 }
 .header-image img{
     border-radius: 50%;
-    height: 150px;
-    width: 150px;
-    border: solid 7px lightgrey;
-    background-position: center;
+    height: 200px;
+    width: 200px;
+    /*border: solid 7px lightgrey;
+    background-position: center;*/
 
 
 }
-.header-image img:hover {
+/*.header-image img:hover {
     border: solid 7px darkgrey;
-}
+}*/
 
 .hero {
     text-align: center;
@@ -115,7 +115,7 @@ h1 {
     /*padding-left: 5px;*/
     /*padding-bottom: 5px;*/
     border-style: solid;
-    border-color: darkgrey;
+    border-color: black;
 }
 .btn a{
     color: black;
@@ -133,11 +133,11 @@ h1 {
     text-decoration:none;
 }
 .creative-commons a {
-    color: lightgray;
+    color: darkgrey;
     text-decoration:none;
 }
 .creative-commons a:hover {
-    color: darkgrey;
+    color: black;
     text-decoration:none;
 
 }
