@@ -78,6 +78,9 @@ h1 {
 
 .hero {
     text-align: center;
+    line-height: 5px;
+}
+.hero h3 {
     line-height: 22px;
 }
 .hero a {
@@ -133,11 +136,11 @@ h1 {
     text-decoration:none;
 }
 .creative-commons a {
-    color: darkgrey;
+    color: lightgrey;
     text-decoration:none;
 }
 .creative-commons a:hover {
-    color: black;
+    color: darkgrey;
     text-decoration:none;
 
 }
